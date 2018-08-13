@@ -1,0 +1,110 @@
+html{
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+label{
+    font-weight: 500;
+    color: #808080;
+    
+    user-select: none;
+}
+
+#list_container{
+    width: 100%;
+    height: auto;
+}
+
+#list_container > .jumbotron{
+    position: relative;
+    height: 14em;
+    
+}
+
+.paragraph_class{
+    position: absolute;
+    top: 0.5em;
+    left: 1em;
+    font-weight: 700;
+    
+}
+
+.open_button_class{
+    background-color: #33ccff;
+    color: #FFF;
+    position: absolute;
+    left: 1em;
+    top: 3em;
+    border: none;
+    cursor: default;
+}
+
+.open_button_class:focus{
+    outline: none;
+}
+
+.issue_text_class{
+    position: absolute;
+    left: 0.3em;
+    top: 1.8em;
+}
+
+.status_div_class{
+    position: absolute;
+    left: 1em;
+    top: 8em;
+    font-weight: 500;
+}
+
+.status_div_class span:nth-child(2){
+    margin-right: 0.7em;
+    
+}
+
+.buttons_div_class{
+    position: absolute;
+    left: 0.8em;
+    top: 11em;
+    
+}
+
+.buttons_div_class > button:first-child{
+    margin-right: 0.5em;
+}
+
+img{
+    width: 0.8em;
+    margin-right: 0.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
